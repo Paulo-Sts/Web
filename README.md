@@ -27,3 +27,7 @@ Conceitos e Tecnologias da web e como desenvolver aplicações.
     - 3xx = Redirecionamento;
     - 4xx = Erro no Cliente;
     - 5xx = Erro no Servidor.
+
+> #### SERVER SIDE E CLIENT SIDE
+* As aplicações server side são aplicações em que tanto os dados como o conteúdo, são gerados e gerenciados por um servidor.
+* As aplicações client side ou aplicações front-end são aquelas em que a parte de conteúdo visual é gerado dinâmicamente através de SPAs (single page aplications) utilizando o javascript e o servidor atua apenas fornecendo serviços web (que retornam dados), geralmente em formato JSON.

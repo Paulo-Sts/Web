@@ -31,3 +31,7 @@ Conceitos e Tecnologias da web e como desenvolver aplicações.
 > #### SERVER SIDE E CLIENT SIDE
 * As aplicações server side são aplicações em que tanto os dados como o conteúdo, são gerados e gerenciados por um servidor.
 * As aplicações client side ou aplicações front-end são aquelas em que a parte de conteúdo visual é gerado dinâmicamente através de SPAs (single page aplications) utilizando o javascript e o servidor atua apenas fornecendo serviços web (que retornam dados), geralmente em formato JSON.
+
+> #### SERVIDOR DNS
+* Os servidores DNS, são servidores que fazem a tradução, mapeamento e apontamento de nomes de domínio na web para o endereços IP de um serviço. O endereçamento pode ser de um DNS para IP, DNS para outros DNS, DNS para servidores de email, entre outros.
+* O DNS funciona através do protocolo UDP, usando a porta 53.

@@ -35,3 +35,8 @@ Conceitos e Tecnologias da web e como desenvolver aplicações.
 > #### SERVIDOR DNS
 * Os servidores DNS, são servidores que fazem a tradução, mapeamento e apontamento de nomes de domínio na web para o endereços IP de um serviço. O endereçamento pode ser de um DNS para IP, DNS para outros DNS, DNS para servidores de email, entre outros.
 * O DNS funciona através do protocolo UDP, usando a porta 53.
+
+> #### HTTPS
+* É o protocolo de comunicação com uma camada de criptografia que fornece segurança as requisições. O objetivo de uso do HTTPS é manter a integridade dos dados durante toda a transferência de informações através das redes. O mecanismo de segurança adicionado com o HTTPS se trata de um processo de criptografia dos dados através de um certificado.
+* Os protocolos utilizados para a criptografia dos dados são o TLS ou SSL.
+* Os certificados de uso do HTTPS são emitidos e validados por uma autoridade certificadora. Trata-se de um arquivo presente no servidor e no browser que habilita a criptografia e descriptografia dos dados das requisições.

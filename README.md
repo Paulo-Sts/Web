@@ -40,3 +40,14 @@ Conceitos e Tecnologias da web e como desenvolver aplicações.
 * É o protocolo de comunicação com uma camada de criptografia que fornece segurança as requisições. O objetivo de uso do HTTPS é manter a integridade dos dados durante toda a transferência de informações através das redes. O mecanismo de segurança adicionado com o HTTPS se trata de um processo de criptografia dos dados através de um certificado.
 * Os protocolos utilizados para a criptografia dos dados são o TLS ou SSL.
 * Os certificados de uso do HTTPS são emitidos e validados por uma autoridade certificadora. Trata-se de um arquivo presente no servidor e no browser que habilita a criptografia e descriptografia dos dados das requisições.
+
+> #### WEB SERVICE
+* Trata-se de um ou mais serviços que uma aplicação disponibiliza, através das tecnologias da web. Uma característica da web é a transferência de informações por meio formatos textuais como JSON ou XML, o que possibilita uma interoperabilidade entre diferentes sistemas que se utilizam das mais variadas linguagens de programação e outras tecnologias.
+* Os principais modelos para construção de web services são o SOAP e o REST (O modelo SOAP utiliza o formato WSDL e XML já o REST utiliza o HTTP e o JSON).
+
+> #### CLOUD
+* É um serviço utilitário de recursos computacionais em que o custo depende do consumo (se paga pelo que se usa) e estes são escaláveis de acordo com a necessidade de capacidade. 
+* Os serviços de nuvem são subdivididos em alguns grupos de acordo com sua estrutura de funcionamento. 
+*  A infraestrutura como serviço (IaaS) fornece o serviço de toda a infraestrutura de hardware e software em que é possível gerenciar diretamente diversos computadores, assim como gerenciar serviços de computação, armazenamento, banco de dados, funções e etc.
+*  A plataforma como serviço (PaaS), atua com o fornecimento de uma infraestrutura pronta que suporta a implementação do código para execução de serviços na web.
+*  O software como serviço (SaaS) fornece uma plataforma personalizável já pronta para uso em que é possível definir as características necessárias de acordo com a necessidade.

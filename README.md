@@ -42,8 +42,8 @@ Conceitos e Tecnologias da web e como desenvolver aplicações.
 * Os certificados de uso do HTTPS são emitidos e validados por uma autoridade certificadora. Trata-se de um arquivo presente no servidor e no browser que habilita a criptografia e descriptografia dos dados das requisições.
 
 > #### WEB SERVICE
-* Trata-se de um ou mais serviços que uma aplicação disponibiliza, através das tecnologias da web. Uma característica da web é a transferência de informações por meio formatos textuais como JSON ou XML, o que possibilita uma interoperabilidade entre diferentes sistemas que se utilizam das mais variadas linguagens de programação e outras tecnologias.
-* Os principais modelos para construção de web services são o SOAP e o REST (O modelo SOAP utiliza o formato WSDL e XML já o REST utiliza o HTTP e o JSON).
+* Trata-se de um ou mais serviços que uma aplicação disponibiliza, através das tecnologias da web. Uma característica da web é a transferência de informações por meio de formatos textuais como JSON ou XML, o que possibilita uma interoperabilidade entre diferentes sistemas que se utilizam das mais variadas linguagens de programação e outras tecnologias.
+* Os principais modelos para a construção de web services são o SOAP e o REST (O modelo SOAP utiliza o formato WSDL e XML já o REST utiliza o HTTP e o JSON).
 
 > #### CLOUD
 * É um serviço utilitário de recursos computacionais em que o custo depende do consumo (se paga pelo que se usa) e estes são escaláveis de acordo com a necessidade de capacidade. 

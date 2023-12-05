@@ -50,4 +50,4 @@ Conceitos e Tecnologias da web e como desenvolver aplicações.
 * Os serviços de nuvem são possíveis através do processo de virtualização de máquinas e são subdivididos em alguns grupos de acordo com sua estrutura de funcionamento. 
 *  A infraestrutura como serviço (IaaS) fornece o serviço de toda a infraestrutura de hardware e software em que é possível gerenciar diretamente diversos computadores, assim como gerenciar serviços de computação, armazenamento, banco de dados, funções e etc.
 *  A plataforma como serviço (PaaS), atua com o fornecimento de uma infraestrutura pronta que suporta a implementação do código para execução de serviços na web.
-*  O software como serviço (SaaS) fornece uma plataforma personalizável já pronta para uso em que é possível definir as características necessárias de acordo com a necessidade.
+*  O software como serviço (SaaS) fornece uma plataforma personalizável já pronta para uso em que é possível definir as características de acordo com a necessidade.

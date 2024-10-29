@@ -1,5 +1,5 @@
 # Web
-* Conceitos e Tecnologias da web e como desenvolver aplicações.
+Conceitos e Tecnologias da web e como desenvolver aplicações.
 
 <br>
 

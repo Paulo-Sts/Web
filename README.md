@@ -1,9 +1,7 @@
-<div style="display:inline_block">
-    <img align="left" height="100" width="100" alt="Web" src="https://www.pngall.com/wp-content/uploads/4/World-Wide-Web-PNG-Image-File.png">
-</div>
-
-### Web
+# Web
 * Conceitos e Tecnologias da web e como desenvolver aplicações.
+
+<br>
 
 ## CONCEITOS
 
